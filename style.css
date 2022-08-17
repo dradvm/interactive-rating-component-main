@@ -140,3 +140,11 @@ button {
         opacity: 1;
     }
 }
+
+.attribution {
+    bottom: 0;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
